@@ -9,3 +9,32 @@
 .name{
     size: 50px;
 }
+.h{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+.contain{
+    display: flex;
+    margin-top: 50px;
+}
+.t-card{
+    display: flex;
+}
+.s-card{
+    border: 1px solid black;
+    margin-right: 15px;
+    text-align: center;
+    width: 250px;
+    border-radius: 25px;
+}
+button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
