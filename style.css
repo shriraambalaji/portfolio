@@ -1,3 +1,6 @@
+body{
+    background-color: #0d0c2d;
+}
 .para1{
     text-align: center;
     margin-top: 300px;
@@ -16,11 +19,16 @@
 .h{
     text-align: center;
 }
+.h2{
+    font-size: 35px;
+    color: rgb(164, 164, 246);
+}
 h2{
     text-align: center;
 }
-p{
-    font-size: 25px;
+.me{
+    font-size: 18px;
+    color: #c4c4cc;
 }
 .contain{
     display: flex;
@@ -28,19 +36,37 @@ p{
 }
 .t-card{
     display: flex;
+    margin-bottom: 50px;
 }
 .s-card{
     border: 1px solid black;
+    margin-top: 50px;
     margin-right: 15px;
     text-align: center;
-    width: 250px;
+    width: 200px;
+    height: 130px;
     border-radius: 25px;
+    background-color: #262645;
+     box-shadow: 0 4px 20px rgba(221, 217, 225, 0.109);
 }
-button{
-    padding: 10px;
-    font-size: 20px;
-    border-radius: 10px;
+#contact{
+    padding: 20px;
+    font-size: 17px;
+    border-radius: 20px;
+    background-color: rgb(164, 164, 246) ;
+    margin-top: 50px;
     
+}
+.card2{
+    margin-left: 150px;
+    margin-right: 150px;
+    color: whitesmoke;
+}
+#man{
+    margin-right: 150px;
+    width: 350px;
+    height: 350px;
+    border-radius: 25px;
 }
 .button{
     text-align: center;
