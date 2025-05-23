@@ -1,11 +1,21 @@
-.card1{
-    background-color: ;
+.para1{
+    text-align: center;
+    margin-top: 300px;
+    font-family: cursive;
+    
 }
 .para{
     text-align: center;
     font-size: 30px;
     margin-top: 150px;
+    margin-left: -10px;
 }
 .name{
     size: 50px;
+}
+.button{
+    text-align: center;
+}
+.but2{
+    margin-left: 20px;
 }
