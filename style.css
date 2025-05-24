@@ -1,3 +1,20 @@
+.body{
+    background-color: #080725;
+   
+}
+.bx bx-moon{
+    color:white;
+    
+}
+.card1{
+    color: #f0f0f0f8;
+    font-family: sans-serif;
+    font-weight:bold;
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1400px;
+}
 .para1{
     text-align: center;
     margin-top: 300px;
@@ -6,8 +23,9 @@
 }
 .para{
     text-align: center;
-    font-size: 30px;
-    margin-top: 150px;
+    font-size: 20px;
+    margin-top: 125px;
+    margin-bottom: 30;
     margin-left: -10px;
 }
 .name{
@@ -16,6 +34,48 @@
 .button{
     text-align: center;
 }
+.but1{
+    padding: 5px;
+    height: 70px;
+    width: 200px;
+    border-radius: 14px;
+    background: transparent;
+    color: #8466a7;
+    font-weight:600 ;
+    font-size: 20px;
+    border: 3px solid #a074d3;
+}
 .but2{
-    margin-left: 20px;
+    padding: 20px 50px 20px 50px;
+    height: 200px;
+    width: 500px;
+    border-radius: 14px;
+    background: transparent;
+    color: #080725;
+    font-weight:600 ;
+    font-size: 22px;
+    border: 3px solid #a074d3;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 50px;
+    background-color: #8466a7;
+   
+    
+}
+
+
+.nav{
+     width:500px;
+    display: flex;
+    max-width: fit-content;
+   
+    padding: 20px;
+    
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+}  
+.image{
+    margin-left: 500px;
 }
